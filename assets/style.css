@@ -1,13 +1,16 @@
+/* Universal selector / All elements on the page */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0 auto;
 }
 
+/* Sets the background color of the page */
 body {
     background-color: #d9dcd6;
 }
 
+/* Sets the background color of the page */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,6 +18,7 @@ body {
     color: #ffffff;
 }
 
+/* h1 Descendant Selector */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -41,11 +45,13 @@ body {
     margin-left: 25px;
 }
 
+/* a element color / text */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* p element font size */
 p {
     font-size: 16px;
 }
@@ -110,7 +116,6 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
 
 .optimization-management-marketing img {
     max-height: 200px;
