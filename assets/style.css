@@ -28,6 +28,7 @@ body {
     color: #d9dcd6;
 }
 
+/* nav Descendant Selector */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -97,6 +98,7 @@ p {
     color: #ffffff;
 }
 
+/* benefit class */
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -108,6 +110,7 @@ p {
     max-width: 150px;
 }
 
+/* optimization-management-marketing selector */
 .optimization-management-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -126,6 +129,7 @@ p {
     font-size: 36px;
 }
 
+/* footer */
 .footer {
     padding: 30px;
     clear: both;
