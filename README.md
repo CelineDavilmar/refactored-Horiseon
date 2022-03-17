@@ -11,3 +11,8 @@ The page has been optimized for accessibility when using search engines by esuri
 ## Website
 https://celinedavilmar.github.io/refactored-Horiseon/
 
+## Screenshots Of Website
+
+<img src="./assets/images/Screen Shot 1.png">
+<img src="./assets/images/Screen Shot 2.png">
+<img src="./assets/images/Screen Shot 3.png">
