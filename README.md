@@ -1,12 +1,13 @@
 # refactored-Horiseon
 
-##Purpose
+##  Purpose
+
 The page has been optimized for accessibility when using search engines by esuring accessible alt attributes. 
 
-##Built With
-*HTML
-*CSS
+## Built With
+* HTML
+* CSS
 
-##Website
+## Website
 https://celinedavilmar.github.io/refactored-Horiseon/
 
